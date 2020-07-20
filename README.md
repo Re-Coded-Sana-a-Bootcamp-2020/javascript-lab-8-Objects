@@ -11,7 +11,7 @@ create an object for a laptop.
 <strong>Deadline: end of class session</strong>
 
 ### Submission
-After forking this repository and finishing <strong>ALL</strong> the requirements, please do a pull request so it can be review by any of the instructors.
+After cloning this repository and finishing <strong>ALL</strong> the requirements, please do a pull request so it can be review by any of the instructors.
 
 
 Good luck :D 
